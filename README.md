@@ -1,2 +1,2 @@
 This is my first git Repository.
-Author: Sagnik Mondal.
+Author: Sagnik Mondal studying BCA.
